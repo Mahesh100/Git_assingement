@@ -1,0 +1,48 @@
+Step 1: 01_initalise_the_empty_git_repo.png
+
+Step 2: 02_created_new_empty_on_remote.png
+
+Step 3: 03_created_branch_added_remote_and_push_to_remote.png
+
+Step 4: 04.png
+
+Step 5: 05_Checked_git_status.png
+
+Step 6: 06_New_file_added_to_local_push_to_origin.png
+
+Step 7: 07_new_file_added_to_remote_server.png
+
+Step 8: 08_changes_from_remote_reflected_to_local.png
+
+Step 9: 09_new_branch_b1_created.png
+
+Step 10: 10_new_pull_request_created_on_remote_without_conflit.png
+
+Step 11: 11_new_pullRequest_created.png
+
+Step 12: 12_pull_request_sucessfully_merge_without_conflit.png
+
+Step 13: 13_updated_files_are_as_show.png
+
+Step 14: 14_branches_created.png
+
+Step 15: 15_new_branches_are_push_to_remote.png
+
+Step 16: 16_.png
+
+Step 17: 17.png
+
+Step 18: 18.png
+
+Step 19: 19_.png
+
+Step 20: 20_demonstrate_diff_between_branches.png
+
+Step 21: 21_.png
+
+Step 22: 22_forking_repo.png
+
+Step 23: 23__fork_repo.png
+
+Step 24: 24_new_forked_repo.png
+
